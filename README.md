@@ -1,3 +1,3 @@
 # eyukselen.github.io
 
-My perosnal space for my hobbies
+My perosnal space for random hobbies
