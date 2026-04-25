@@ -1,4 +1,3 @@
-My personal space and a place holder for future ideas and projects
 
 ### // playground:
 * **[NeoDB](https://github.com/eyukselen/neodb)** : for now a KV-store python module. Just started it becuase NeoDb name was available.
