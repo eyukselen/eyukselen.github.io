@@ -1,7 +1,4 @@
-# eyukselen.github.io
-
-My personal space for random hobbies. 
-A place holder for future ideas
+My personal space and a place holder for future ideas and projects
 
 ### // playground:
 * **NeoDB** : for now a KV-store python module. Just started it becuase NeoDb name was available.
@@ -25,8 +22,8 @@ A place holder for future ideas
 [![Python Versions](https://img.shields.io/pypi/pyversions/eprofiler)](https://pypi.org/project/eprofiler/)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
-### // old ideas
-* **ete Text Editor** — a text editor running on linux, macos and windows.
+### // past ideas
+* **ete Text Editor** — a text editor running on linux, macos and windows. 
 
 ### // links
 [GitHub](https://github.com/eyukselen) | [LinkedIn](https://www.linkedin.com/in/eyukselen/)
