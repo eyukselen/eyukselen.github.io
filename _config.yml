@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
-title: " "
-description: " "
+title: "emre.one"
+description: "My Personal Space for experimenting"
+show_downloads: false
+google_analytics:
