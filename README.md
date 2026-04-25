@@ -1,7 +1,7 @@
 My personal space and a place holder for future ideas and projects
 
 ### // playground:
-* **NeoDB** : for now a KV-store python module. Just started it becuase NeoDb name was available.
+* **[NeoDB](https://github.com/eyukselen/neodb)** : for now a KV-store python module. Just started it becuase NeoDb name was available.
 
 ### // active_projects
 
