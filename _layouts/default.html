@@ -7,26 +7,37 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% seo %}
     <style>
-      /* Center everything and remove the "strip" containers */
-      .inner {
-        max-width: 750px;
-        margin: 0 auto;
-        padding: 40px 20px;
+      /* 1. Force the entire page background to match the body color */
+      body {
+        background-color: #1b1b1b !important;
       }
       
-      /* Force the body background to stay unified */
-      body {
-        background: #1b1b1b; /* The native Hacker "dark gray" */
+      /* 2. Kill the header's inherited black background and borders */
+      header {
+        background: none !important;
+        background-color: transparent !important;
+        border-bottom: none !important;
+        padding-bottom: 0 !important;
+        margin-bottom: 0 !important;
       }
 
-      /* Clean up the header spacing since the wrapper is gone */
-      header {
-        margin-bottom: 20px;
+      /* 3. Center everything and fix the width */
+      .inner {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+        background: none !important;
       }
-      
+
+      /* 4. Fix the typography scale so it isn't "too big" */
       h1#project_title {
-        color: #00ff00; /* Neon green */
-        font-size: 2.5em;
+        font-size: 2rem;
+        margin-bottom: 5px;
+      }
+      h2#project_tagline {
+        font-size: 1.1rem;
+        font-weight: normal;
+        opacity: 0.8;
       }
     </style>
   </head>
