@@ -6,6 +6,18 @@
     <meta name="viewport" content="width=device-width,maximum-scale=2">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% seo %}
+    <style>
+      /* Manual override to ensure centering without the 'View on GitHub' button */
+      .inner {
+        max-width: 640px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      #main_content_wrap {
+        border-top: 1px solid #111;
+        border-bottom: 1px solid #111;
+      }
+    </style>
   </head>
 
   <body>
