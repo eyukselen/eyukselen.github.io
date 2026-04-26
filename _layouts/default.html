@@ -7,37 +7,38 @@
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     {% seo %}
     <style>
-      /* Manual override to ensure centering without the 'View on GitHub' button */
+      /* Center everything and remove the "strip" containers */
       .inner {
-        max-width: 640px;
+        max-width: 750px;
         margin: 0 auto;
-        padding: 20px;
+        padding: 40px 20px;
       }
-      #main_content_wrap {
-        border-top: 1px solid #111;
-        border-bottom: 1px solid #111;
+      
+      /* Force the body background to stay unified */
+      body {
+        background: #1b1b1b; /* The native Hacker "dark gray" */
+      }
+
+      /* Clean up the header spacing since the wrapper is gone */
+      header {
+        margin-bottom: 20px;
+      }
+      
+      h1#project_title {
+        color: #00ff00; /* Neon green */
+        font-size: 2.5em;
       }
     </style>
   </head>
 
   <body>
-    <div id="header_wrap" class="outer">
-        <header class="inner">
-          <h1 id="project_title">{{ site.title }}</h1>
-          <h2 id="project_tagline">{{ site.description }}</h2>
-        </header>
-    </div>
+    <header class="inner">
+      <h1 id="project_title">{{ site.title }}</h1>
+      <h2 id="project_tagline">{{ site.description }}</h2>
+    </header>
 
-    <div id="main_content_wrap" class="outer">
-      <section id="main_content" class="inner">
-        {{ content }}
-      </section>
-    </div>
-
-    <div id="footer_wrap" class="outer">
-      <footer class="inner">
-        <p class="copyright">{{ site.title }} maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></p>
-      </footer>
-    </div>
+    <section class="inner">
+      {{ content }}
+    </section>
   </body>
 </html>
