@@ -1,6 +1,12 @@
 
 ### // playground:
-* **[NeoDB](https://github.com/eyukselen/neodb)** : for now a KV-store python module. Just started it becuase NeoDb name was available.
+* **[NeoDB](https://github.com/eyukselen/neodb)** : for now a KV-store python module with indexing. Just started it becuase NeoDb name was available.
+
+[![PyPI - Version](https://img.shields.io/pypi/v/neodb?color=blue)](https://pypi.org/project/neodb/) 
+[![Documentation](https://readthedocs.org/projects/neodb/badge/?version=latest)](https://neodb.readthedocs.io/en/latest/?badge=latest) 
+[![Python Versions](https://img.shields.io/pypi/pyversions/neodb)](https://pypi.org/project/neodb/) 
+[![License](https://img.shields.io/pypi/l/neodb?color=orange)](https://opensource.org/licenses/MIT)
+
 
 ### // active_projects
 
