@@ -28,7 +28,7 @@
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
 ### // past ideas
-* **ete Text Editor** — a text editor running on linux, macos and windows. 
+* **[ete- Text Editor](https://github.com/eyukselen/ete)** : a text editor running on linux, macos and windows. 
 
 ### // links
 [GitHub](https://github.com/eyukselen) | [LinkedIn](https://www.linkedin.com/in/eyukselen/)
