@@ -31,5 +31,5 @@
 * **[ete- Text Editor](https://github.com/eyukselen/ete)** : a text editor running on linux, macos and windows. 
 
 ### // links
-[GitHub](https://github.com/eyukselen) | [LinkedIn](https://www.linkedin.com/in/emreyukselen/))
+[GitHub](https://github.com/eyukselen) | [LinkedIn](https://www.linkedin.com/in/emreyukselen/)
 
