@@ -14,7 +14,7 @@
   
 [![PyPI - Version](https://img.shields.io/pypi/v/call-limiter?color=blue&cache_bust=1)](https://pypi.org/project/call-limiter/)
 [![Documentation](https://readthedocs.org/projects/call-limiter/badge/?version=latest)](https://call-limiter.readthedocs.io/en/latest/?badge=latest)
-[![Build Status](https://github.com/eyukselen/call-limiter/actions/workflows/python-tests.yml/badge.svg)](https://github.com/eyukselen/call-limiter/actions) 
+[![Build Status](https://github.com/eyukselen/call-limiter/actions/workflows/python-tests.yml/badge.svg?branch=main)](https://github.com/eyukselen/call-limiter/actions) 
 [![Python Versions](https://img.shields.io/pypi/pyversions/call-limiter)](https://pypi.org/project/call-limiter/) 
 [![License](https://img.shields.io/pypi/l/call-limiter?color=orange)](https://opensource.org/licenses/MIT)
 
@@ -23,7 +23,7 @@
 
 [![PyPI](https://img.shields.io/pypi/v/eprofiler.svg?color=blue)](https://pypi.org/project/eprofiler/)
 [![Documentation](https://readthedocs.org/projects/eprofiler/badge/?version=latest)](https://eprofiler.readthedocs.io/en/latest/?badge=latest)
-[![Build Status](https://github.com/eyukselen/eprofiler/actions/workflows/python-tests.yml/badge.svg)](https://github.com/eyukselen/eprofiler/actions)
+[![Build Status](https://github.com/eyukselen/eprofiler/actions/workflows/python-tests.yml/badge.svg?branch=main)](https://github.com/eyukselen/eprofiler/actions)
 [![Python Versions](https://img.shields.io/pypi/pyversions/eprofiler)](https://pypi.org/project/eprofiler/)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 
